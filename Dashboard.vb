@@ -30,5 +30,6 @@ Public Class Dashboard
         BunifuCustomLabel7.Text = c
         tutupkoneksi()
 
+    
     End Sub
 End Class
