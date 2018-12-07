@@ -27,5 +27,6 @@
         TBayar.TopLevel = False
         main.MainPanel.Controls.Add(TBayar)
         TBayar.Show()
+    
     End Sub
 End Class
